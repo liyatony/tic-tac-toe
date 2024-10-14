@@ -8,7 +8,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game. The project all
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Play against a computer opponent.
@@ -30,7 +30,7 @@ Usage
 Run the game using:
 
     ```bash
-   python tic_tac_toe.py
+    python tic_tac_toe.py
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
