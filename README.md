@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 This is a simple implementation of the classic Tic-Tac-Toe game. The project allows users to play Tic-Tac-Toe against a computer opponent.
-
+ 
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
