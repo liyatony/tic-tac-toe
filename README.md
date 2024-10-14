@@ -26,11 +26,11 @@ This is a simple implementation of the classic Tic-Tac-Toe game. The project all
    ```bash
    cd tic-tac-toe
 
-Usage
+## Usage
 Run the game using:
 
-    ```bash
     python tic_tac_toe.py
+ 
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
